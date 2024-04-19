@@ -1,0 +1,11 @@
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/dto/LoanDto.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/controller/LoanController.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/entity/LoanStatus.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/entity/Currency.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/service/LoanService.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/client/FraudDetectionClient.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/config/ObservationConfig.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/LoanServiceApplication.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/entity/Loan.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/repository/LoanRepository.java
+/home/pranav/springboot3-observablity/loan-service/src/main/java/com/programming/techie/loans/config/RestClientConfig.java

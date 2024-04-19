@@ -1,0 +1,13 @@
+com/programming/techie/loans/controller/LoanController.class
+com/programming/techie/loans/dto/LoanDto.class
+com/programming/techie/loans/service/LoanService.class
+com/programming/techie/loans/entity/LoanStatus.class
+com/programming/techie/loans/entity/Loan$LoanBuilder.class
+com/programming/techie/loans/dto/LoanDto$LoanDtoBuilder.class
+com/programming/techie/loans/entity/Loan.class
+com/programming/techie/loans/config/ObservationConfig.class
+com/programming/techie/loans/repository/LoanRepository.class
+com/programming/techie/loans/entity/Currency.class
+com/programming/techie/loans/config/RestClientConfig.class
+com/programming/techie/loans/client/FraudDetectionClient.class
+com/programming/techie/loans/LoanServiceApplication.class
