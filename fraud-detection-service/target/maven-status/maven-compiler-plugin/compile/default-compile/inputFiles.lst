@@ -1,0 +1,7 @@
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/FraudDetectionServiceApplication.java
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/controller/FraudDetectionController.java
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/service/FraudDetectionService.java
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/entity/FraudRecord.java
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/entity/LoanStatus.java
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/config/ObservationConfig.java
+/home/pranav/springboot3-observablity/fraud-detection-service/src/main/java/com/programming/techie/fraudetect/repository/FraudRecordRepository.java
